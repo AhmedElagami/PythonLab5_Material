@@ -191,7 +191,8 @@ str[ : ]           # a copy of the whole array
 
 --
 ##### Forward and Backward Indexing 
-![](img/Pasted%20image%20230925192358.png)
+
+![[./img/Lab3-1.png]]
 ```python
 s = "Python is just ok"
 
@@ -303,7 +304,7 @@ for more details: [Python String Formatting Best Practices – Real Python](http
 --
 #### OOP
 
-![](img/Pasted%20image%20230913231742.png)
+![[./img/Lab3-2.png]]
 
 --
 
@@ -345,7 +346,7 @@ print(a, "is complex number?", isinstance(1+2j,complex))
 ---
 #### More On Operators #1
 
-![](img/Pasted%20image%20230925185001.png)
+![[./img/Lab3-3.png]]
 
 --
 
@@ -382,7 +383,7 @@ Exponential:  9
 ---
 #### More On Operators #2
 
-![](img/Pasted%20image%20230925185032.png)
+![[./img/Lab3-4.png]]
 
 --
 
@@ -407,7 +408,7 @@ print(len("python") > len("coding"))   # Fals
 ```
 ---
 #### More on Operators #3
-![](img/Pasted%20image%20230925185058.png)
+![[./img/Lab3-5.png]]
 
 --
 
@@ -441,7 +442,7 @@ True or False: Tru
 
 ---
 #### More on Operators #4
-![](img/Pasted%20image%20230925185116.png)
+![[./img/Lab3-6.png]]
 
 --
 
@@ -565,7 +566,7 @@ pass
 ```
 ---
 #### Iterables
-![](img/Pasted%20image%20230928130119.png)
+![[./img/Lab3-7.png]]
 
 ---
 #### Conversions between collections, list(), set(), tuple()
