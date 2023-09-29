@@ -644,7 +644,7 @@ print(("Repeat",) * 3)       # ▶ ('Repeat', 'Repeat', 'Repeat'
 
 #### Dictionaries
 
-![[Pasted image 20230928162033.png]]
+![](./img/Lab3Iterables-1)
 
 ---
 
