@@ -644,7 +644,7 @@ print(("Repeat",) * 3)       # ▶ ('Repeat', 'Repeat', 'Repeat'
 
 #### Dictionaries
 
-![](./img/Lab3Iterables-1)
+![](img/Lab3Iterables-1.png)
 
 ---
 
